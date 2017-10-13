@@ -9,3 +9,5 @@ To run it:
 ```
 python server.py
 ```
+
+![demo-preview](https://github.com/cuitianze/neo4j-py2neo-demo/blob/master/demo-preview.png)
